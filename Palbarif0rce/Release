@@ -1,0 +1,8 @@
+Origin: iF0rce
+Label: iF0rce
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: iF0rce - AirBlue Sharing -- iOS 上真正的蓝牙文件传输
